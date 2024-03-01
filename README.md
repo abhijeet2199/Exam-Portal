@@ -19,15 +19,16 @@ The project is structured as follows:
 - **User**: Includes classes related to user management and authentication.
 - **Operations**: Consists of classes handling various operations such as SignUp, SignIn, Dashboard, test-taking, and scorecard generation.
 
-##Contribution
+## Contribution
+
 Contributions to this project are highly appreciated. If you'd like to contribute, please follow these steps:
 
-##Future Enhancements
+## Future Enhancement
 In the future, we plan to implement the following enhancements:
 
 React-Based Frontend: Developing a modern and interactive frontend using React.js to enhance user experience.
 Additional Features: Adding more features such as question banks, adaptive testing, and result analysis.
 Your suggestions and feedback on these enhancements are welcome!
 
-##License
+## LICENSE
 This project is licensed under the MIT License. See the LICENSE file for details.

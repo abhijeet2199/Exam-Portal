@@ -19,37 +19,15 @@ The project is structured as follows:
 - **User**: Includes classes related to user management and authentication.
 - **Operations**: Consists of classes handling various operations such as SignUp, SignIn, Dashboard, test-taking, and scorecard generation.
 
-## Usage
-
-To run the project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/Exam-Portal.git
-
-2. Navigate to the project directory:
-
-bash
-Copy code
-cd Exam-Portal
-Compile and run the main class:
-
-bash
-Copy code
-javac Main.java
-java Main
-Access the portal through your preferred web browser at http://localhost:8080.
-
-#Contribution
+##Contribution
 Contributions to this project are highly appreciated. If you'd like to contribute, please follow these steps:
 
-#Future Enhancements
+##Future Enhancements
 In the future, we plan to implement the following enhancements:
 
 React-Based Frontend: Developing a modern and interactive frontend using React.js to enhance user experience.
 Additional Features: Adding more features such as question banks, adaptive testing, and result analysis.
 Your suggestions and feedback on these enhancements are welcome!
 
-#License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
